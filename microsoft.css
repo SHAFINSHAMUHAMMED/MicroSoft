@@ -284,7 +284,7 @@ body{
     margin-right: 1.5rem;
     display: inline-block;
     background-color: #0067b8;
-    color: #fff!important;
+    color: #fff;
     font-weight: 600;
     border: .125rem solid transparent;
     position: relative;
@@ -296,13 +296,13 @@ body{
     cursor: pointer;
  }
  .six-people{
-    color: #000!important;
+    color: #000;
     margin-right: 0;
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 8px;
     padding-bottom:  8px;
-    padding-right: 1.3125em;
+    padding-right: 10px;
     font-weight: 600;
     position: relative;
     text-decoration: none; 
@@ -319,8 +319,8 @@ body{
  .cursor{
     width: 176px;
     height: 44px;
-    margin-left: 636.8px;
-    margin-right: 636.8px;
+    margin-left: auto;
+    margin-right: auto;
     position: relative;
     bottom: 239px;
  }
@@ -552,14 +552,14 @@ body{
    background-clip: border-box;
  }
  .sales-div{
-   width: 1549.6px;
+   width: 1519.6px;
    height: 399.525px;
    margin-bottom: 48px;
    position: relative;
    top: 80px;
  }
  .sales-div-a{
-   width: 1449.6px;
+   width: 1519.6px;
    height: 399.525px;
      margin-left:auto;
      margin-right:auto;
@@ -569,6 +569,8 @@ body{
    height: 399.525px;
    padding-left: 72.475px;
    padding-right: 72.475px;
+    position: relative;
+    right:30px;
    
 }
 .column{
@@ -710,8 +712,8 @@ font-weight: 500;
    height: 490.462px;
    float: left;
     clear: none;
-    margin-bottom: 48px!important;
-    margin-top: 48px!important;
+    margin-bottom: 48px;
+    margin-top: 48px;
     display: block;
     position: relative;
     top: 84px;
