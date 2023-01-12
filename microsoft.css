@@ -410,6 +410,8 @@ body{
     padding-right: 72.475px;
     position: relative;
     top: 35px;
+     margin-left:auto;
+     margin-right:auto;
  }
  .bar{
     width: 1304.64px;
@@ -559,6 +561,8 @@ body{
  .sales-div-a{
    width: 1449.6px;
    height: 399.525px;
+     margin-left:auto;
+     margin-right:auto;
  }
 .sales-div-padding{
    width: 1304.64px;
@@ -822,7 +826,7 @@ font-weight: 500;
    margin-bottom: 8px;
    display: inline-block;
    background-color: #0067b8;
-    color: #fff!important;
+    color: #fff;
     font-weight: 600;
     border: .125rem solid transparent;
     position: relative;
@@ -846,6 +850,7 @@ font-weight: 500;
    margin-bottom: 48px;
    display: inline-block;
    position: relative;
+    left:38px;
    top: 83px;
 }
 .inner-grid2{
