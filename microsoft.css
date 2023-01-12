@@ -557,6 +557,8 @@ body{
    margin-bottom: 48px;
    position: relative;
    top: 80px;
+     margin-left:auto;
+     margin-right:auto;
  }
  .sales-div-a{
    width: 1519.6px;
