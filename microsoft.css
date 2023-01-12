@@ -725,6 +725,8 @@ font-weight: 500;
    width: 1304.64px;
    height: 490.462px;
    display: flex;
+    margin-left:auto;
+    margin-right:auto;
 
 }
 .pic-area{
